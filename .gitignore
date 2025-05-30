@@ -1,0 +1,46 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Output and model artifacts
+data/processed/
+data/raw/
+data/outputs/
+models/
+logs/
+*.log
+
+# Test outputs
+htmlcov/
+coverage.xml
+*.cover
+.cache
+nosetests.xml
+*.spec
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+
+# Python egg metadata
+*.egg-info/
+*.egg

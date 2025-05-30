@@ -1,0 +1,33 @@
+# Python version requirement (not enforced by pip but informative)
+python==3.10
+
+# Core data science & NLP
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.3.2
+matplotlib==3.8.4
+seaborn==0.13.2
+nltk==3.8.1
+spacy==3.7.2
+gensim==4.3.2
+umap-learn==0.5.5
+
+# Deep Learning & Transformers
+torch==2.2.2
+transformers==4.40.1
+sentence-transformers==2.6.1
+datasets==2.19.1
+
+# Topic modeling
+bertopic==0.16.0
+hdbscan==0.8.40
+
+# LLM & utils
+openai==1.30.1
+loguru==0.7.2
+tqdm==4.66.2
+
+# Dev tools
+pytest==8.2.1
+black==24.4.2
+isort==5.13.2
