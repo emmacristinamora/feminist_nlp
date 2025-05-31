@@ -1,0 +1,23 @@
+2025-05-30 22:21:56,241 - INFO - Starting book extraction process...
+2025-05-30 22:22:00,108 - INFO - Downloaded Pride and Prejudice successfully.
+2025-05-30 22:22:03,394 - INFO - Downloaded Emma successfully.
+2025-05-30 22:22:07,200 - INFO - Downloaded Jane Eyre successfully.
+2025-05-30 22:22:11,723 - INFO - Downloaded Wuthering Heights successfully.
+2025-05-30 22:22:15,430 - INFO - Downloaded Middlemarch successfully.
+2025-05-30 22:22:18,699 - INFO - Downloaded The Mill on the Floss successfully.
+2025-05-30 22:22:20,660 - INFO - Downloaded A Vindication of the Rights of Woman successfully.
+2025-05-30 22:22:22,073 - INFO - Downloaded Mary, A Fiction successfully.
+2025-05-30 22:22:23,962 - INFO - Downloaded Woman in the Nineteenth Century successfully.
+2025-05-30 22:22:26,230 - INFO - Downloaded Little Women successfully.
+2025-05-30 22:22:28,968 - INFO - Downloaded An Old-Fashioned Girl successfully.
+2025-05-30 22:22:30,292 - INFO - Downloaded The Yellow Wallpaper successfully.
+2025-05-30 22:22:32,273 - INFO - Downloaded Herland successfully.
+2025-05-30 22:22:35,478 - INFO - Downloaded The Voyage Out successfully.
+2025-05-30 22:22:37,524 - INFO - Downloaded Mrs Dalloway successfully.
+2025-05-30 22:22:39,797 - INFO - Downloaded The Awakening successfully.
+2025-05-30 22:22:41,736 - INFO - Downloaded Bayou Folk successfully.
+2025-05-30 22:22:45,555 - INFO - Downloaded The Woman's Bible successfully.
+2025-05-30 22:22:49,150 - INFO - Downloaded Eighty Years and More successfully.
+2025-05-30 22:22:51,258 - INFO - Downloaded Narrative of Sojourner Truth successfully.
+2025-05-30 22:22:53,974 - INFO - Downloaded Strife and Peace successfully.
+2025-05-30 22:22:53,988 - INFO - Metadata saved to /Users/emmamora/Documents/GitHub/feminist_nlp/data/metadata.csv
