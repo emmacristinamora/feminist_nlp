@@ -22,7 +22,6 @@ venv/
 .idea/
 
 # Output and model artifacts
-data/processed/
 data/raw/
 data/outputs/
 models/
