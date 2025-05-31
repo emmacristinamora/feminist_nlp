@@ -23,8 +23,6 @@ venv/
 
 # Output and model artifacts
 data/raw/
-logs/
-*.log
 
 # Test outputs
 htmlcov/
